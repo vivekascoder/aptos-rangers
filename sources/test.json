@@ -1,0 +1,6 @@
+{
+  "name": "Test Dynamic NFT #",
+  "description": "description goes here.",
+  "image": "data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYwMCIgd2lkdGg9IjQwMCIgZmlsbD0iYmxhY2siCiB2aWV3Qm94PSIwIDAgNDAwIDYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8c3R5bGU+CiAgICBzdmcgewogICAgICBiYWNrZ3JvdW5kOiBibGFjazsKICAgIH0KICAgIC5zbWFsbCB7CiAgICAgIGZpbGw6IHdoaXRlOwogICAgfQogIDwvc3R5bGU+CgogIDx0ZXh0IHg9IjEwIiB5PSI0MCIgY2xhc3M9InNtYWxsIj5EeW5haW1pYyBORlQgIzQ8L3RleHQ+Cjwvc3ZnPg==",
+  "attributes": []
+}
