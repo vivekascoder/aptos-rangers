@@ -5,7 +5,7 @@ module rangers::base64 {
     use std::string::{Self, String};
     use std::vector;
 
-    const B64_CHARS: vector<u8> = b"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+    const B64_CHARS: vector<u8> = b"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 
     public fun b64_encoded_size(l: u64): u64 {
         let ret = l;
